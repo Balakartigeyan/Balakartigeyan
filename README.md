@@ -29,9 +29,8 @@ Turning industrial data into intelligent, real-world solutions.
 ## 📂 Featured Projects
 
 - 🔧 Conveyor Belt Defect Detection (Computer Vision + Sensors)  
-- ⚡ Energy Optimization for TR11 Conveyor System  
-- 🍷 SAGALAI TropiSpice Wine – Business & Data Analytics  
-- 📊 Import Conveyor Data Analysis (Motor, Temp, Vibration)  
+- ⚡ Energy Optimization for equipment and Conveyor System   
+- 📊 Import Conveyor Data Analysis (Motor, Temp, Vibration & etc)  
 
 ---
 
